@@ -1,4 +1,6 @@
 Assya's portfolio.
 | job | Link |
 |:--: |:-----|
-|DELTA| [Eranings]()|
+|DELTA| [Job1]()|
+|DELTA| [Job2]()|
+
